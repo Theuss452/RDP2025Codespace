@@ -107,8 +107,8 @@ Este archivo no debe subirse a repositorios públicos por razones de seguridad. 
 2. **Inicia el contenedor** con:
 
    ```bash
-   docker start windows
-   ```
+   
+   ```docker start windows
 
 ---
 
